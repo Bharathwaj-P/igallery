@@ -141,6 +141,9 @@ img2.addEventListener("mouseout",()=>
     img2.style.transform="scale(1)"
 });
 
+
+```
+
 ## OUTPUT:
 ![alt text](<project8/app8/static/Screenshot 2025-10-07 220628.png>)
 ![alt text](<project8/app8/static/Screenshot 2025-10-07 220649.png>)
