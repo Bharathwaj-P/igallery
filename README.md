@@ -142,10 +142,8 @@ img2.addEventListener("mouseout",()=>
 });
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-10-07 220628" src="https://github.com/user-attachments/assets/6ad61351-1a03-485c-9e98-c488df78a444" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-07 220649" src="https://github.com/user-attachments/assets/a4127624-d3ec-4c16-a80c-1c32c0c7109c" />
-
-
+![alt text](<project8/app8/static/Screenshot 2025-10-07 220628.png>)
+![alt text](<project8/app8/static/Screenshot 2025-10-07 220649.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
